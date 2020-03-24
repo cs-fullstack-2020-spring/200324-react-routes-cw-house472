@@ -1,4 +1,6 @@
 # 20-03-24 React Routes CW
+#### Nice! Looks cool (sweet pic), great comments and nice approach for the challenge (simpler than my approach, I'm a fan)
+#### Score : 5/5
 Set Up
 - Create a new react app called `cw-app`
 - Create a class based component called `AppContainer` with the text `React Routes CW`
